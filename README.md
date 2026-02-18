@@ -79,6 +79,12 @@ Bachelor of Science in Information Technology (Expected 2026)
 
 ### 🏆 Achievements & Certifications
 
+- **Google Professional Certificate** - Google IT Support Feb 2026
+- **Google** - IT Security: Defense Against the Digital Dark Arts Feb 2026
+- **Google** - System Administration and IT Infrastructure Services Feb 2026
+- **Google** - Operating Systems and You: Becoming a Power User Feb 2026
+- **Google** - The Bits and Bytes of Computer Networking Feb 2026
+- **Google** - Technical Support Fundamentals Feb 2026
 - **Dean's Lister** - Every semester since first year
 - **L.A.N.I. Scholarship Program** Recipient
 - **MakeX Creotec National Robotics Competition** - National-level participant
