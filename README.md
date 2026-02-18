@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gino Louis Gusi</h1>
-<h3 align="center">Aspiring Game Designer and Developer | Unity & Unreal Engine | 3D Asset Creation</h3>
+<h3 align="center">BSIT Student at PUP-Taguig | Google Certified IT Support Professional | Infrastructure & Systems | Unity & Unreal Engine | 3D Asset Creation</h3>
 
 <p align="center">
-  <em>Highly skilled in prototyping core gameplay mechanics, designing robust UI/UX flows, and creating technical documentation (GDDs). Currently seeking an Internship or Junior role to leverage hands-on experience in both collaborative and self-directed projects.</em>
+  <em>Google Certified IT Support Professional and Dean’s List BSIT student at PUP-Taguig. I specialize in maintaining system integrity and leading technical teams through complex infrastructure challenges. Highly skilled in prototyping core gameplay mechanics, designing robust UI/UX flows, and creating technical documentation (GDDs). Currently seeking an Internship or Junior role to leverage hands-on experience in both collaborative and self-directed projects.</em>
 </p>
 
 ---
